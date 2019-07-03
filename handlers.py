@@ -1,6 +1,6 @@
 import os
 import sys
-from . import Handler
+from loggingpycom import Handler
 
 
 def try_remove(fn: str) -> None:

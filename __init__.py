@@ -1,6 +1,6 @@
 import utime
-import sys
 import uio
+import sys
 
 CRITICAL = 50
 ERROR    = 40
